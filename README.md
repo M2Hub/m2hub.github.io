@@ -1,2 +1,1 @@
-# mavenhub.github.io
-Maven Hub
+#BuildHub
